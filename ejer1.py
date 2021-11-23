@@ -1,0 +1,5 @@
+print('Welcome to the Letter Counter App')
+name = input('What is your name?: ')
+print('Hellow {name}!\nI will  count the number of times thaht specific letter  occurs  in a message.')
+message = input('Please enter a message')
+count = input('Wich letter would you like  to count the ocurrences of: ')
