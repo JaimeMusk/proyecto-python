@@ -1,0 +1,5 @@
+print('welcome to the Temperature Conversation App)
+fah = input('what is the  given Temperature in degress Fahrenheit?: ')
+degress = float(input(fah)
+celsius = float(input((fah-32)*(5/9))
+kelvin = float(input((celsius+273))
