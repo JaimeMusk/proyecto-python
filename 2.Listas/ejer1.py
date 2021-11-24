@@ -1,4 +1,5 @@
-print("welcome to the Grade Sorter App!")#saludo3
+#saludo#
+print("welcome to the Grade Sorter App!")
 print("introduce 4 notas (0-100)")
 #variables#
 n1 = input("nota1 :")
